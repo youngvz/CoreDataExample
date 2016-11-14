@@ -15,6 +15,7 @@
 		030A4A451DDA4C64007F593F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 030A4A431DDA4C64007F593F /* LaunchScreen.storyboard */; };
 		030A4A501DDA4C64007F593F /* CoreDataExampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 030A4A4F1DDA4C64007F593F /* CoreDataExampleTests.swift */; };
 		030A4A5B1DDA4C64007F593F /* CoreDataExampleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 030A4A5A1DDA4C64007F593F /* CoreDataExampleUITests.swift */; };
+		030A4A691DDA50B1007F593F /* AddLocationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 030A4A681DDA50B1007F593F /* AddLocationViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		030A4A561DDA4C64007F593F /* CoreDataExampleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CoreDataExampleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		030A4A5A1DDA4C64007F593F /* CoreDataExampleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataExampleUITests.swift; sourceTree = "<group>"; };
 		030A4A5C1DDA4C64007F593F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		030A4A681DDA50B1007F593F /* AddLocationViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddLocationViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 			children = (
 				030A4A371DDA4C64007F593F /* AppDelegate.swift */,
 				030A4A391DDA4C64007F593F /* ViewController.swift */,
+				030A4A681DDA50B1007F593F /* AddLocationViewController.swift */,
 				030A4A3B1DDA4C64007F593F /* Main.storyboard */,
 				030A4A411DDA4C64007F593F /* Assets.xcassets */,
 				030A4A431DDA4C64007F593F /* LaunchScreen.storyboard */,
@@ -268,6 +271,7 @@
 				030A4A3A1DDA4C64007F593F /* ViewController.swift in Sources */,
 				030A4A381DDA4C64007F593F /* AppDelegate.swift in Sources */,
 				030A4A401DDA4C64007F593F /* CoreDataExample.xcdatamodeld in Sources */,
+				030A4A691DDA50B1007F593F /* AddLocationViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
